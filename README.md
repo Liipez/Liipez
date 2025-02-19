@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Luiz Felipe ## Olá! 👋  
+<p align="left">My name is Luiz Felipe 
 
 Sou um estudante de programação apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou aprendendo Python, JavaScript e compartilhando meus projetos aqui no GitHub.  
 
