@@ -19,11 +19,16 @@ Sou um estudante de programação apaixonado por tecnologia e desenvolvimento de
 
 ###
 
-<p align="left">✨ Creating bugs since <br>📚 I'm currently learning <br>🎯 Goals:</p>
+<p align="left">📚 Atualmente aprendendo [linguagens/tecnologias que está estudando]  
+🎯 Objetivos: [seu objetivo, como trabalhar na área, criar projetos próprios, contribuir para open source]  
+
+💡 Gosto de explorar novas tecnologias e sempre busco melhorar minhas habilidades em desenvolvimento.  
+🚀 Apaixonado por programação e pelo desafio de transformar ideias em código!  
+</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left"> 💻 Tecnologias que uso</h2>
 
 ###
 
