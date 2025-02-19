@@ -2,7 +2,16 @@
 
 ###
 
-<p align="left">My name is Luiz Felipe and I'm a desenvolvedor de site</p>
+<p align="left">My name is Luiz Felipe ## Olá! 👋  
+
+Sou um estudante de programação apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou aprendendo Python, JavaScript e compartilhando meus projetos aqui no GitHub.  
+
+🔹 Buscando aprender mais sobre desenvolvimento web e boas práticas de código.  
+🚀 Sempre explorando novas tecnologias e desafios!  
+
+💼 Conecte-se comigo no [LinkedIn](seu-link-aqui)!  
+📫 Contato: email@email.com  
+</p>
 
 ###
 
@@ -32,9 +41,7 @@
 
 <br clear="both">
 
-<div align="right">
-  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczA2ZjY5OThveXM1cTR1Y3JkcXRmM3c3ZG1yY3NsdnBlZW1kazJjayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gfl7CKcgs6exW/giphy.gif"  />
-</div>
+
 
 ###
 
