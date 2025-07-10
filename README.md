@@ -15,7 +15,7 @@ Sou um estudante de programação apaixonado por tecnologia e desenvolvimento de
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
