@@ -1,64 +1,93 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">E aí, tudo certo? 👋</h1>
 
-###
-
-<p align="left">My name is Luiz Felipe 
-
-Sou um estudante de programação apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou aprendendo Python, JavaScript e compartilhando meus projetos aqui no GitHub.  
-
-🔹 Buscando aprender mais sobre desenvolvimento web e boas práticas de código.  
-🚀 Sempre explorando novas tecnologias e desafios!  
-
-💼 Conecte-se comigo no [LinkedIn](seu-link-aqui)!  
-📫 Contato: email@email.com  
+<p align="left">
+Sou <strong>Luiz Felipe</strong>, um estudante de programação que transforma café em código ☕💻. <br>
+Apaixonado por tecnologia, adoro explorar linguagens, frameworks e transformar ideias em projetos reais!
 </p>
 
-###
+---
 
-<h2 align="left">Sobre mim</h2>
+### 🚀 Sobre mim
 
-###
+- 👨‍💻 Atualmente estudando: <strong>Python, Java, JavaScript, HTML e CSS</strong>
+- 🎯 Objetivo: Me tornar desenvolvedor full stack e contribuir com projetos open source
+- 📍 Local: Brasil 🇧🇷
+- 🧠 Apaixonado por aprender e resolver problemas com código
+- 💼 Buscando minha primeira oportunidade profissional na área de desenvolvimento
 
-<p align="left">📚 Atualmente aprendendo [linguagens/tecnologias que está estudando]  
-🎯 Objetivos: [seu objetivo, como trabalhar na área, criar projetos próprios, contribuir para open source]  
+---
 
-💡 Gosto de explorar novas tecnologias e sempre busco melhorar minhas habilidades em desenvolvimento.  
-🚀 Apaixonado por programação e pelo desafio de transformar ideias em código!  
+### 🛠️ Tecnologias que uso
+
+<div align="left">
+  <!-- JavaScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img width="12" />
+  
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img width="12" />
+  
+  <!-- HTML5 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img width="12" />
+  
+  <!-- CSS3 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img width="12" />
+  
+  <!-- Java -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img width="12" />
+  
+  <!-- Spring Boot (usamos o ícone do Spring, pois não há um exclusivo do Boot) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" />
+  <img width="12" />
+  
+  <!-- MySQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img width="12" />
+  
+  <!-- Git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img width="12" />
+  
+  <!-- Postman (não está no Devicon, usamos um badge alternativo) -->
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="Postman" />
+</div>
+
+
+---
+
+### 📊 GitHub em ação
+
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=liipez&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liipez&layout=compact&theme=radical" />
+</div>
+
+---
+
+### 🌐 Vamos nos conectar?
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+  <a href="mailto:lipegus77@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" />
+  </a>
+  <a href="https://www.instagram.com/seuusuario/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&style=for-the-badge" />
+  </a>
+</div>
+
+---
+
+<p align="center">
+  💬 "Programar é a arte de ensinar algo extremamente burro a fazer algo incrivelmente inteligente."
 </p>
 
-###
-
-<h2 align="left"> 💻 Tecnologias que uso</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <a href="https://www.youtube.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Profile%20views&color=blue&style=flat" alt="profile views" />
+</p>
