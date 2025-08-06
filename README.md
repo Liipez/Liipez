@@ -88,6 +88,3 @@ Apaixonado por tecnologia, adoro explorar linguagens, frameworks e transformar i
   💬 "Programar é a arte de ensinar algo extremamente burro a fazer algo incrivelmente inteligente."
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Profile%20views&color=blue&style=flat" alt="profile views" />
-</p>
