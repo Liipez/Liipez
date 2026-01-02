@@ -7,7 +7,7 @@ Apaixonado por tecnologia, adoro explorar linguagens, frameworks e transformar i
 
 ---
 
-### 🚀 Sobre mim
+### 🚀 Sobre mim | About me
 
 - 👨‍💻 Atualmente estudando: <strong>Python, Java, JavaScript, HTML e CSS</strong>
 - 🎯 Objetivo: Me tornar desenvolvedor full stack e contribuir com projetos open source
@@ -20,7 +20,7 @@ Apaixonado por tecnologia, adoro explorar linguagens, frameworks e transformar i
 
 ---
 
-### 🛠️ Tecnologias que uso
+### 🛠️ Tecnologias que uso| Tech Stack
 
 <div align="left">
   <!-- JavaScript -->
@@ -62,13 +62,13 @@ Apaixonado por tecnologia, adoro explorar linguagens, frameworks e transformar i
 
 ---
 
-### 📊 GitHub em ação
+### 📊 GitHub em ação| GitHub Activity
 ![snake gif](https://raw.githubusercontent.com/Liipez/Liipez/output/github-contribution-grid-snake.svg)
 
 
 
 
-### 🌐 Vamos nos conectar?
+### 🌐 Vamos nos conectar?| Let’s connect!
 
 <div align="left">
   <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
