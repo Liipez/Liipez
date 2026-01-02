@@ -1,7 +1,7 @@
 <h1 align="left">E aí, tudo certo? 👋</h1>
 
 <p align="left">
-Sou <strong>Luiz Felipe</strong>, um estudante de programação que transforma café em código ☕💻. <br>
+Sou <strong>Luiz Felipe</strong>, um estudante de engenharia de software que transforma café em código ☕💻. <br>
 Apaixonado por tecnologia, adoro explorar linguagens, frameworks e transformar ideias em projetos reais!
 </p>
 
@@ -11,7 +11,10 @@ Apaixonado por tecnologia, adoro explorar linguagens, frameworks e transformar i
 
 - 👨‍💻 Atualmente estudando: <strong>Python, Java, JavaScript, HTML e CSS</strong>
 - 🎯 Objetivo: Me tornar desenvolvedor full stack e contribuir com projetos open source
-- 📍 Local: Brasil 🇧🇷
+- 🌍 Idiomas:
+🇧🇷 Português: nativo
+🇺🇸 Inglês: básico / intermediário (em constante evolução)
+📍 Localização: Brasil 🇧🇷
 - 🧠 Apaixonado por aprender e resolver problemas com código
 - 💼 Buscando minha primeira oportunidade profissional na área de desenvolvimento
 
