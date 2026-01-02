@@ -65,7 +65,7 @@ Apaixonado por tecnologia, adoro explorar linguagens, frameworks e transformar i
 ### 📊 GitHub em ação
 ![snake gif](https://raw.githubusercontent.com/Liipez/Liipez/output/github-contribution-grid-snake.svg)
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Liipez&repo=Liipez&theme=react)](https://github.com/Liipez/Liipez)
+
 
 
 ### 🌐 Vamos nos conectar?
