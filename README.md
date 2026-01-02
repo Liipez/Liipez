@@ -11,12 +11,13 @@ Apaixonado por tecnologia, adoro explorar linguagens, frameworks e transformar i
 
 - 👨‍💻 Atualmente estudando: <strong>Python, Java, JavaScript, HTML e CSS</strong>
 - 🎯 Objetivo: Me tornar desenvolvedor full stack e contribuir com projetos open source
+- 🧠 Perfil curioso, focado em aprender, evoluir e resolver problemas com código
+- 💼 Em busca da primeira oportunidade profissional na área de desenvolvimento
 - 🌍 Idiomas:
 🇧🇷 Português: nativo
 🇺🇸 Inglês: básico / intermediário (em constante evolução)
 📍 Localização: Brasil 🇧🇷
-- 🧠 Apaixonado por aprender e resolver problemas com código
-- 💼 Buscando minha primeira oportunidade profissional na área de desenvolvimento
+
 
 ---
 
