@@ -1,7 +1,7 @@
 <h1 align="left">E aí, tudo certo? 👋</h1>
 
 <p align="left">
-Sou <strong>Luiz Felipe</strong>, um estudante de engenharia de software que transforma café em código ☕💻. <br>
+Sou <strong>Luiz Felipe</strong>, um estudante de Engenharia de Software que transforma café em código ☕💻. <br>
 Apaixonado por tecnologia, adoro explorar linguagens, frameworks e transformar ideias em projetos reais!
 </p>
 
