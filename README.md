@@ -75,13 +75,16 @@ Apaixonado por tecnologia, adoro explorar linguagens, frameworks e transformar i
   <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
+
   <a href="mailto:lipegus77@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" />
   </a>
-  <a href="(https://liipez.github.io/Portifolio/)" target="_blank">
-   
+
+  <a href="https://liipez.github.io/Portifolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github" />
   </a>
 </div>
+
 
 ---
 
