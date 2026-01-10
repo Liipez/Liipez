@@ -78,8 +78,8 @@ Apaixonado por tecnologia, adoro explorar linguagens, frameworks e transformar i
   <a href="mailto:lipegus77@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" />
   </a>
-  <a href="https://www.instagram.com/seuusuario/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&style=for-the-badge" />
+  <a href="(https://liipez.github.io/Portifolio/)" target="_blank">
+   
   </a>
 </div>
 
